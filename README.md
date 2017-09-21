@@ -1,1 +1,1 @@
-# Self-implemented projects of Udacity-Deep-Learning-Foundations
+# Self-implemented projects of Udacity-DeepLearning-Nanodegree
